@@ -1,0 +1,4 @@
+no,nama_pajak,yang_terkena_pajak,penghasilan_pertahun,potongan_persen
+2,Pajak_PPn,"pengusaha, perusahaan",2000,5%
+3,pajak bangunan,pemilik bangunan,1000,5%
+4,pajak motor,pengendara,10000,5%
